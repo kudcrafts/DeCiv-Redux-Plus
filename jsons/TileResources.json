@@ -194,7 +194,7 @@
 		"name": "Uranium",
 		"resourceType": "Strategic",
 		"revealedBy": "Atomic Theory",
-		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
+		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow","Plains","Glassland","Badlands","Wasteland","Permafrost","Desert","Hill"],
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
