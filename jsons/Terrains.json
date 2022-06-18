@@ -301,8 +301,10 @@
 			"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."
 		],
 		"occursOn": [
+            "Grassland",
 			"Wasteland",
 			"Badlands",
+            "Plains",
 			"Desert",
 			"Tundra",
 			"Permafrost",
