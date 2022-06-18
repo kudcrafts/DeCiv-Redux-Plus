@@ -546,24 +546,6 @@
 		"weight": 1
 	},
 	{
-		"name": "Oasis",
-		"type": "NaturalWonder",
-		"occursOn": ["Desert"],
-		"turnsInto": "Desert",
-		"food": 3,
-		"gold": 3,
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Wasteland] tiles",
-			"Must be adjacent to [2] to [6] [Hill] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Fresh water"
-		],
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
 		"name": "Soft Drinks Factory",
 		"type": "NaturalWonder",
 		"gold": 1,
