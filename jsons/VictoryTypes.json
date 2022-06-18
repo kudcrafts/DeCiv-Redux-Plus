@@ -1,14 +1,14 @@
 [
     {
         "name": "Scientific",
-        "victoryScreenHeader": "Complete all the spaceship parts\nto win!",
+        "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
         "milestones": [
-            "Build [Apollo Program]", "Add all [spaceship parts] in capital"
+            "Build [Biosphere Project]", "Add all [terraformer parts] in capital"
         ],
         "requiredSpaceshipParts": [
-            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"
+            "Solar Shade", "Terraforming Lab", "Ocean Scrubber", "Atmosphere Processor"
         ],
-        "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a brave new world! Your triumph will be remembered as long as the stars burn in the night sky!",
+        "victoryString": "You have achieved victory through mastery of Science! With the Terraformer complete, you can start the arduous process of stabilising the Earth's systems to make them amenable for human life. It could take centuries, but your descendants will know that it was here that the tide was turned.\n\nIn the meantime, a Solar Shade can literally block out the sun for those that would oppose you...",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
     {
@@ -28,7 +28,6 @@
     {
         "name": "Diplomatic",
         "hiddenInVictoryScreen": false,
-        "victoryScreenHeader": "Build the UN and be voted\nworld leader to win!",
         "milestones": ["Anyone should build [United Nations]", "Win diplomatic vote"],
         "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
