@@ -2,7 +2,7 @@
 game.png
 size: 2040, 1045
 format: RGBA8888
-filter: Linear,Linear
+filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 EmojiIcons/Culture
   rotate: false
