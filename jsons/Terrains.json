@@ -38,7 +38,8 @@
 				"Considered [Food] when determining start locations <in [Hill] Regions>",
 				"Considered [Food] when determining start locations <in [Grassland] Regions>",
 				"Considered [Food] when determining start locations <in [Hybrid] Regions>",
-				"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+				"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+                "Doesn't generate naturally"]
 	},
 	{
 		"name": "Wasteland",
@@ -90,7 +91,8 @@
 				"Considered [Food] when determining start locations <in [Hill] Regions>",
 				"Considered [Food] when determining start locations <in [Plains] Regions>",
 				"Considered [Food] when determining start locations <in [Hybrid] Regions>",
-				"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+				"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+                "Doesn't generate naturally"]
 	},
 	{
 		"name": "Badlands",
@@ -303,8 +305,8 @@
 		"occursOn": [
             "Grassland",
 			"Wasteland",
-			"Badlands",
             "Plains",
+			"Badlands",
 			"Desert",
 			"Tundra",
 			"Permafrost",
@@ -329,7 +331,8 @@
 					"Only [All Road] improvements may be built on this tile",
 					"Always Fertility [4] for Map Generation",
 					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations"]
+					"Considered [Desirable] when determining start locations",
+                    "Doesn't generate naturally"]
 	},
 	{
 		"name": "Flood plains",
@@ -340,7 +343,8 @@
 		"occursOn": ["Desert"],
 		"uniques": ["Always Fertility [5] for Map Generation",
 					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations"]
+					"Considered [Desirable] when determining start locations",
+                    "Doesn't generate naturally"]
 	},
 	{
 		"name": "Ice",
@@ -359,7 +363,7 @@
 		"food": 1,
 		"production": 1,
 		"occursOn": ["Coast"],
-		"uniques": ["Rare feature"]
+		"uniques": ["Rare feature","Doesn't generate naturally"]
 	},
 	{
 		"name": "Ruins",
